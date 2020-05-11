@@ -9,14 +9,13 @@
       "description": "Operative intangible infrastructure",
       "categoryId": "administration",
       "applicationSize": "small",
-      "status": "standard",
       "licensing_cost": "128",
       "vendor_phone": "+7 637 747 6207",
       "status_color": "#00FF00",
       "department": "Training",
       "hostedtype": "SaaS",
       "deployment_date": "17/1/04",
-      "investment_number": "44",
+      "investment_number": 44,
       "type": "SaaS",
       "sme_email": "Kayle.Pratton@memento.net.au",
       "investment_24m": "185",
@@ -25,11 +24,11 @@
       "support_cost": "13",
       "vendor_contact_name": "Katha Tuxsell",
       "end_of_life": "3/7/18",
-      "months_to_renew_support": "7",
+      "months_to_renew_support": 7,
       "end_of_maintenance": "10/12/17",
       "integrations": [
         {
-          "assetId": "int-167",
+          "id": "int-167",
           "name": "INT-167",
           "shortName": null,
           "version": "0.7.9",
@@ -37,7 +36,6 @@
           "payload": "Sales - Product Profile",
           "targetApplicationId": "social_innovation",
           "categoryId": "webmethods",
-          "status": "standard",
           "sme_name": "Gualterio Trevaskiss",
           "status_color": "#00FF00",
           "department": "Integration",
@@ -50,7 +48,7 @@
           "golive_date": "31/3/03"
         },
         {
-          "assetId": "int-054",
+          "id": "int-054",
           "name": "INT-054",
           "shortName": null,
           "version": "4.5",
@@ -58,7 +56,6 @@
           "payload": "Financial Closing Stock Company Unknown Shrink",
           "targetApplicationId": "social_innovation",
           "categoryId": "email",
-          "status": "standard",
           "sme_name": "Gualterio Trevaskiss",
           "status_color": "#00FF00",
           "department": "App Control",
@@ -71,7 +68,7 @@
           "golive_date": "25/2/15"
         },
         {
-          "assetId": "int-077",
+          "id": "int-077",
           "name": "INT-077",
           "shortName": null,
           "version": "5.99",
@@ -79,7 +76,6 @@
           "payload": "Order Data Refresh",
           "targetApplicationId": "social_innovation",
           "categoryId": "webmethods",
-          "status": "standard",
           "sme_name": "Alfy Greader",
           "status_color": "#00FF00",
           "department": "Integration",
@@ -92,7 +88,7 @@
           "golive_date": "22/8/15"
         },
         {
-          "assetId": "int-009",
+          "id": "int-009",
           "name": "INT-009",
           "shortName": null,
           "version": "0.2.1",
@@ -100,7 +96,6 @@
           "payload": "Product Data Migration",
           "targetApplicationId": "hanging_front-end",
           "categoryId": "cron",
-          "status": "standard",
           "sme_name": "Tonya Oldcroft",
           "status_color": "#00FF00",
           "department": "System Control",
@@ -113,7 +108,7 @@
           "golive_date": "26/11/01"
         },
         {
-          "assetId": "int-393",
+          "id": "int-393",
           "name": "INT-393",
           "shortName": null,
           "version": "9.7",
@@ -121,7 +116,6 @@
           "payload": "Allocation Distribution",
           "targetApplicationId": "social_innovation",
           "categoryId": "fuse",
-          "status": "standard",
           "sme_name": "Gunner Cust",
           "decom_date": "2/7/15",
           "status_color": "#FF0000",
@@ -135,7 +129,7 @@
           "golive_date": "22/3/06"
         },
         {
-          "assetId": "int-162",
+          "id": "int-162",
           "name": "INT-162",
           "shortName": null,
           "version": "0.59",
@@ -143,7 +137,6 @@
           "payload": "Product Attributes, Order Type, Seasonality",
           "targetApplicationId": "social_innovation",
           "categoryId": "webmethods",
-          "status": "standard",
           "sme_name": "Hannis Pantin",
           "status_color": "#0000FF",
           "department": "Integration",
